@@ -1,0 +1,10 @@
+/* src/index.css */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 100;
+  padding: 1000;
+}
